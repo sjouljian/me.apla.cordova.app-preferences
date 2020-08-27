@@ -4,7 +4,8 @@
 
 var cordova_util, ConfigParser;
 (function() {
-	var cordovaLib = 'cordova',
+	//var cordovaLib = 'cordova',
+	var cordovaLib = 'cordova-lib',
 		configParserLib = 'ConfigParser';
 	
 	try {

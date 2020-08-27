@@ -2,7 +2,8 @@
 
 function createCordovaUtil() {
 	var 
-		cordovaLib = 'cordova',
+		cordovaLib = 'cordova-lib'
+		//cordovaLib = 'cordova',
 		configParserLib = 'ConfigParser',
 		cordova_util;
 	
